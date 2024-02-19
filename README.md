@@ -1,6 +1,6 @@
 ![Please Come back Again](https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif)
 
-<span style="background-color: #FFD700; color: black; padding: 2px 5px; border-radius: 3px;">Learning</span>
+<code style="background-color: #FFD700; color: black; padding: 2px 5px; border-radius: 3px;">Learning</code>
 
 ---
 
