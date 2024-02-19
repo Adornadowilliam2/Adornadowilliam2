@@ -1,8 +1,8 @@
-$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$
+
 
 ![Please Come back Again](https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif)
 
-<code style="background-color: #FFD700; color: black; padding: 2px 5px; border-radius: 3px;">Learning</code>
+<code style="background-color: #FFD700; color: black; padding: 2px 5px; border-radius: 3px;">$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$</code>
 
 ---
 
