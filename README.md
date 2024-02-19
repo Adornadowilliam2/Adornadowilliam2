@@ -39,7 +39,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡃⠀⠀⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-![Please Come back Again]([https://www.example.com/image.jpg](https://media1.tenor.com/m/aXJw9EjHImsAAAAC/otterpaka-jujutsu-kaisen.gif))
+![Please Come back Again](https://media1.tenor.com/m/aXJw9EjHImsAAAAC/otterpaka-jujutsu-kaisen.gif)
 
 <!---
 Adornadowilliam2/Adornadowilliam2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
