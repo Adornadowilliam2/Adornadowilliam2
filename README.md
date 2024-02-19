@@ -3,8 +3,12 @@
 - 🌱 I’m currently learning JavaScript and Python.. 
 - 💞️ I'm looking to collaborate with other cosplayers at SM, lol. 😂😂
 - 📫 To reach me, you can email me at adornadowilliam@gmail.com. 📧
-- 😄 Another hobby of mine is playing Valorant, Mobile Legends, and Clash of Clans.
+- 😄 Another hobby of mine is playing Minecraft, Mobile Legends, and Clash of Clans.
 - ⚡ Fun fact: Did you know that gravity may not have been discovered if Galileo Galilei hadn't been hit by a falling apple
+- 
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠤⠖⠒⠒⠒⠒⠒⠦⠤⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
