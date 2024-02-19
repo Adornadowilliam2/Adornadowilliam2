@@ -1,6 +1,7 @@
 ![Please Come back Again](https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif)
 
-<code style="color :  #FFD700">text</code>
+<span style="background-color: #FFD700; color: black; padding: 2px 5px; border-radius: 3px;">Learning</span>
+
 ---
 
 - 👋 Hi, I’m @Adornadowilliam2, a college student at MFI Ortigas, exploring uncharted literary territories while diving into the world of Information Technology.
