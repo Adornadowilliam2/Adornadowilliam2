@@ -1,5 +1,8 @@
 ![Please Come back Again](https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif)
 
+
+---
+
 - 👋 Hi, I’m @Adornadowilliam2, a college student at MFI Ortigas, exploring uncharted literary territories while diving into the world of Information Technology.
 - 👀 I’m interested in Watching Anime 🗡️ and Twitch 📺
 - 🌱 I’m currently learning JavaScript and Python.. 
