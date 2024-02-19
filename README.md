@@ -1,8 +1,6 @@
 ![Please Come back Again](https://media.tenor.com/0m1GsuD-53wAAAAi/mlbb-jjk-jjk-mlbb.gif)
 
-<span style="color: #00ff00;">Colored Text</span>
-
-
+<code style="color : cyan">text</code>
 ---
 
 - 👋 Hi, I’m @Adornadowilliam2, a college student at MFI Ortigas, exploring uncharted literary territories while diving into the world of Information Technology.
