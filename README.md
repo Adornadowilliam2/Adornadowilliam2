@@ -9,7 +9,6 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github
 - 👋 Hi, I’m @Adornadowilliam2, a college student at MFI Ortigas, exploring uncharted literary territories while diving into the world of Information Technology.
 - 👀 I’m interested in Watching Anime 🗡️ and Twitch 📺
 - 🌱 I’m currently learning JavaScript and Python.. 
-- 💞️ I'm looking to collaborate with other cosplayers at SM, lol. 😂😂
 - 📫 To reach me, you can email me at adornadowilliam@gmail.com. 📧
 - 😄 Another hobby of mine is playing Minecraft, Mobile Legends, and Clash of Clans.
 - ⚡ Fun fact: Did you know that gravity may not have been discovered if Galileo Galilei hadn't been hit by a falling apple
