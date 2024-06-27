@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/3AyY" width=480 height=275.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hi 👋, I'm William Adornado</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
