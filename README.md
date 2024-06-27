@@ -1,4 +1,4 @@
-![image](https://github.com/Adornadowilliam2/Adornadowilliam2/assets/145187649/279ca393-715b-40aa-aa3e-ee504360842a)
+![image](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)
 
 <h1 align="center">Hi 👋, I'm William Adornado</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
