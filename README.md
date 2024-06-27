@@ -1,3 +1,4 @@
+![Background Image](https://i.gifer.com/3AyY.gif)
 <h1 align="center">Hi 👋, I'm William Adornado</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adornadowilliam2&show_icons=true&locale=en" alt="adornadowilliam2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adornadowilliam2&" alt="adornadowilliam2" /></p>
-![Snake animation](https://github.com/Adornadowilliam2/Adornadowilliam2/blob/output/github-contribution-grid-snake.svg)
