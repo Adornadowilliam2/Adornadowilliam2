@@ -20,7 +20,9 @@
 </p>
 <hr>
 <h1>Project I created</h1>
-<a href="https://adornadowilliam2.github.io/sad-act-adornado/">Pokedex</a>
+<ul>
+  <li><a href="https://adornadowilliam2.github.io/sad-act-adornado/">Pokedex</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
