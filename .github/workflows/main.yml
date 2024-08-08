@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight every day
+    - cron: '0 0 * * *' 
 
 jobs:
   generate-snake:
