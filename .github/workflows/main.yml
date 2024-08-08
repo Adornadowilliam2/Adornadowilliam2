@@ -1,22 +1,18 @@
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: '0 0 * * *' 
-
-jobs:
-  generate-snake:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Generate contribution snake
-      uses: Platane/snk@v3
-      with:
-        github_user_name: ${{ github.repository_owner }} # Or use a specific username
-        outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: jasineri
+            # Text on contribution graph 
+            text: JASINERI
+       - uses: jasineri/simple-push-action@v1
