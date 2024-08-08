@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adornadowilliam2&" alt="adornadowilliam2" /></p>
 
-![snake gif](https://github.com/Adornadowilliam2/Adornadowilliam2/blob/output/github-contribution-grid-snake.gif)
+https://github.com/Adornadowilliam2/Adornadowilliam2/blob/output/github-contribution-grid-snake.gif
