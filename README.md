@@ -22,8 +22,8 @@
 <h1>Project I created</h1>
 <ul>
   <li><a href="https://adornadowilliam2.github.io/sad-act-adornado/">Pokedex</a></li>
-  <li><a href="https://adornadowilliam2.github.io/ado-music/">Ado Music Playlist</a></li>
-  <li><a href="https://adornadowilliam2.github.io/rubics/">Rubics</a></li>
+  <li><a href="https://musica-orcin-one.vercel.app/">Ado Music Playlist</a></li>
+  <li><a href="https://adornadowilliam2.github.io/rubiks-cube/">Rubics</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
