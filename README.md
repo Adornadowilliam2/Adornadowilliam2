@@ -21,7 +21,7 @@
 <hr>
 <h1>Project I created</h1>
 <ul>
-  <li><a href="https://adornadowilliam2.github.io/sad-act-adornado/">Pokedex</a></li>
+  <li><a href="https://sad-act-adornado.vercel.app/">Pokedex</a></li>
   <li><a href="https://musica-orcin-one.vercel.app/">Ado Music Playlist</a></li>
   <li><a href="https://adornadowilliam2.github.io/rubiks-cube/">Rubics</a></li>
 </ul>
