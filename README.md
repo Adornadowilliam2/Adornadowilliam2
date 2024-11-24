@@ -24,6 +24,7 @@
   <li><a href="https://sad-act-adornado.vercel.app/">Pokedex</a></li>
   <li><a href="https://musica-orcin-one.vercel.app/">Ado Music Playlist</a></li>
   <li><a href="https://adornadowilliam2.github.io/rubiks-cube/">Rubics</a></li>
+  <li><a href="https://advice-generator-app-main-one-jet.vercel.app/">Advice Generator</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
