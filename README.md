@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adornadowilliam@gmail.com**
 
-- ⚡ Fun fact **I think I'm introvert**
+- ⚡ Fun fact **The word “job” originally meant a small or odd piece of work—like a “job of work”—and didn’t take on its modern meaning as full-time employment until the 1850s! 💼**
 
 
 </p>
