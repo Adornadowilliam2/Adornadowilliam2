@@ -22,7 +22,6 @@
 <h1>Project I created</h1>
 <ul>
   <li><a href="https://sad-act-adornado.vercel.app/">Pokedex</a></li>
-  <li><a href="https://musika-song.vercel.app/">My Music Playlist</a></li>
   <li><a href="https://adornadowilliam2.github.io/rubiks-cube/">Rubics</a></li>
   <li><a href="https://advice-generator-app-main-one-jet.vercel.app/">Advice Generator</a></li>
 </ul>
